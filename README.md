@@ -33,6 +33,5 @@ images/
 README.md
 requirements.txt
 ```
+##*
 
-## Author
-**Alameen Khan**
